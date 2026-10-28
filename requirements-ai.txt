@@ -1,0 +1,5 @@
+# Heavy optional models: run this after requirements-base.txt.
+# PyTorch + Demucs can require several GB of downloads and considerable CPU/GPU/RAM.
+demucs>=4.0.1
+faster-whisper>=1.0.3
+transformers>=4.44,<5.0
