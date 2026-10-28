@@ -1,2 +1,0 @@
-# Lightweight server + browser-side DSP. Install optional AI models separately with requirements-ai.txt.
--r requirements-base.txt
